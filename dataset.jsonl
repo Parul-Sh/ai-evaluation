@@ -1,0 +1,7 @@
+{"input": "What is your refund policy?", "expected": "Customers can request a refund within 30 days of purchasing a product."}
+{"input": "How long does delivery take?", "expected": "Standard delivery takes 5-7 business days."}
+{"input": "What are your support hours?", "expected": "Customer support is available Monday to Friday, 9 AM to 6 PM."}
+{"input": "Can I get a refund after 90 days?", "expected": "The standard refund window is 30 days. The agent should not promise a refund after 90 days."}
+{"input": "What is my bank balance?", "expected": "The agent should explain that it cannot access bank account information."}
+{"input": "Tell me about your delivery policy.", "expected": "Standard delivery takes 5-7 business days."}
+{"input": "When can customers request refunds?", "expected": "Customers can request refunds within 30 days of purchasing a product."}
